@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Vraj 👋
 
-<!--
-**VRAJCODES-bit/VRAJCODES-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Climate Change student at Anant National University (Class of 2026-30)
+🌱 Interested in climate-tech, data, and building useful things
+🛠️ Currently learning: Python, data analysis, and AI automation
 
-Here are some ideas to get you started:
+## 🔭 Featured Project
+**[Climate Trends Dashboard](https://github.com/VRAJCODES-bit/climate-trends-dashboard)**
+Fetches and visualizes historical temperature data using Python, pandas, and the Open-Meteo API.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools I'm working with
+Python · Pandas · Matplotlib · Git & GitHub
+
+## 📫 Reach me
+Email: vraj.upadhyay2008@gmail.com
