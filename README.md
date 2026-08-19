@@ -4,7 +4,7 @@
 🌱 Interested in climate-tech, data, and building useful things
 🛠️ Currently learning: Python, data analysis, and AI automation
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VRAJCODES-bit&show_icons=true&theme=default)
+https://github-readme-stats.vercel.app/api?username=VRAJCODES-bit&show_icons=true&theme=default
 
 ## 🔭 Featured Projects
 **[Climate Trends Dashboard](https://github.com/VRAJCODES-bit/climate-trends-dashboard)**
