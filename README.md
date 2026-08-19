@@ -9,6 +9,7 @@
 Fetches and visualizes historical temperature data using Python, pandas, and the Open-Meteo API.
 
 **[Carbon Footprint Calculator](https://github.com/VRAJCODES-bit/carbon-footprint-calculator)**
+🔗 **[Try it live](https://carbon-footprint-calculator-4pdshkc6r33pnqrkfazuzl.streamlit.app)**
 A Python CLI tool that estimates yearly CO2 footprint based on electricity use, travel, and diet.
 
 ## 🧰 Tools & Skills
