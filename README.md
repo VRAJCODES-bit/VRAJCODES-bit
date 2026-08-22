@@ -23,6 +23,9 @@ Fetches real-time air quality data, classifies it against safety standards, and 
 **[Climate Trends Dashboard](https://github.com/VRAJCODES-bit/climate-trends-dashboard)**
 Fetches and visualizes historical temperature data using Python, pandas, and the Open-Meteo API.
 
+**[Flood Risk Estimator](https://github.com/VRAJCODES-bit/flood-risk-estimator)**
+Estimates flood risk for any location using elevation, slope, and rainfall data via Google Earth Engine.
+
 **[Carbon Footprint Calculator](https://github.com/VRAJCODES-bit/carbon-footprint-calculator)**
 A Python CLI tool that estimates yearly CO2 footprint based on electricity use, travel, and diet.
 🔗 [Try it live](https://carbon-footprint-calculator-4pdshkc6r33pnqrkfazuzl.streamlit.app)
