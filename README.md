@@ -30,7 +30,7 @@ Estimates flood risk for any location using elevation, slope, and rainfall data 
 A Python CLI tool that estimates yearly CO2 footprint based on electricity use, travel, and diet.
 🔗 [Try it live](https://carbon-footprint-calculator-4pdshkc6r33pnqrkfazuzl.streamlit.app)
 
-**[Climate Risk & Sustainability Dashboard](https://github.com/VRAJCODES-bit/climate-risk-dashboard)**  
+**[Climate Risk & Sustainability Dashboard](https://github.com/VRAJCODES-bit/climate-risk-dashboard)** 
 An all-in-one interactive dashboard for climate snapshot, air quality, rainwater harvesting, and carbon footprint.  
 🔗 [Try it live](https://climate-risk-dashboard-kxwp46tnvjupgrt7xbcdte.streamlit.app)
 ---
