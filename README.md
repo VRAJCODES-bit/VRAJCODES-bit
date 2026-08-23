@@ -32,6 +32,9 @@ Tracks groundwater storage changes over time using NASA GRACE satellite gravity 
 **[Noise Pollution Mapper](https://github.com/VRAJCODES-bit/noise-pollution-mapper)** 
 Real-time noise level measurement using your device's microphone, classified against WHO-style noise exposure guidelines.
 
+**[Biodiversity Tracker](https://github.com/VRAJCODES-bit/biodiversity-tracker)**
+Tracks species biodiversity for any region using the free GBIF API, visualizing species richness and observation trends over time.
+
 **[Carbon Footprint Calculator](https://github.com/VRAJCODES-bit/carbon-footprint-calculator)**
 A Python CLI tool that estimates yearly CO2 footprint based on electricity use, travel, and diet.
 🔗 [Try it live](https://carbon-footprint-calculator-4pdshkc6r33pnqrkfazuzl.streamlit.app)
