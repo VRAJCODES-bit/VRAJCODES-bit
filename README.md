@@ -29,6 +29,9 @@ Estimates flood risk for any location using elevation, slope, and rainfall data 
 **[Groundwater Depletion Tracker](https://github.com/VRAJCODES-bit/groundwater-depletion-tracker)**
 Tracks groundwater storage changes over time using NASA GRACE satellite gravity data via Google Earth Engine.
 
+**[Noise Pollution Mapper](https://github.com/VRAJCODES-bit/noise-pollution-mapper)** 
+Real-time noise level measurement using your device's microphone, classified against WHO-style noise exposure guidelines.
+
 **[Carbon Footprint Calculator](https://github.com/VRAJCODES-bit/carbon-footprint-calculator)**
 A Python CLI tool that estimates yearly CO2 footprint based on electricity use, travel, and diet.
 🔗 [Try it live](https://carbon-footprint-calculator-4pdshkc6r33pnqrkfazuzl.streamlit.app)
