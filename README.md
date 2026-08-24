@@ -35,6 +35,9 @@ Real-time noise level measurement using your device's microphone, classified aga
 **[Biodiversity Tracker](https://github.com/VRAJCODES-bit/biodiversity-tracker)**
 Tracks species biodiversity for any region using the free GBIF API, visualizing species richness and observation trends over time.
 
+**[Energy Transition Dashboard](https://github.com/VRAJCODES-bit/energy-transition-dashboard)** 
+Tracks a country's renewable vs fossil fuel energy mix over time using Our World in Data's open energy dataset.
+
 **[Carbon Footprint Calculator](https://github.com/VRAJCODES-bit/carbon-footprint-calculator)**
 A Python CLI tool that estimates yearly CO2 footprint based on electricity use, travel, and diet.
 🔗 [Try it live](https://carbon-footprint-calculator-4pdshkc6r33pnqrkfazuzl.streamlit.app)
