@@ -42,8 +42,13 @@ Tracks a country's renewable vs fossil fuel energy mix over time using Our World
 Estimates your yearly plastic waste footprint across 8 categories, with regional benchmarks and persistent progress tracking.
 🔗 [Try it live](https://plastic-waste-estimator-adovdgvt7bh7vr6xkavipq.streamlit.app)
 
+**[Climate Policy & Emissions Tracker](https://github.com/VRAJCODES-bit/climate-policy-emissions-tracker)**
+Compares 54 countries' stated climate policy commitments (NDCs) against actual emissions trajectories using open data, NLP sentiment scoring, and a lightweight ML classifier.
+🔗 [Try it live](https://climate-policy-emissions-tracker-znus63m954bvcvegqgtpuv.streamlit.app)
+
 **[Climate Anxiety Journal](https://github.com/VRAJCODES-bit/climate-anxiety-journal)**
 A private journaling and mood-tracking tool for processing climate anxiety, with guided prompts, streaks, and curated mental health resources.
+🔗 [Try it live](https://climate-anxiety-journal-uot3rdysdvd3z4bb5rx4dv.streamlit.app)
 
 **[Carbon Footprint Calculator](https://github.com/VRAJCODES-bit/carbon-footprint-calculator)**
 A Python CLI tool that estimates yearly CO2 footprint based on electricity use, travel, and diet.
