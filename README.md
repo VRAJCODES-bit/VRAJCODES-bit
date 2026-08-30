@@ -42,6 +42,10 @@ Tracks a country's renewable vs fossil fuel energy mix over time using Our World
 Estimates your yearly plastic waste footprint across 8 categories, with regional benchmarks and persistent progress tracking.
 🔗 [Try it live](https://plastic-waste-estimator-adovdgvt7bh7vr6xkavipq.streamlit.app)
 
+**[Renewable Energy Site Suitability Finder](https://github.com/VRAJCODES-bit/renewable-energy-site-finder)**
+Recommends optimal solar/wind installation sites using solar irradiance, wind speed, and terrain slope via Google Earth Engine, with adjustable weighting and region presets.
+🔗 [Try it live](https://renewable-energy-site-finder-7caagch66kca6pxbhf9rhc.streamlit.app/)
+
 **[Climate Policy & Emissions Tracker](https://github.com/VRAJCODES-bit/climate-policy-emissions-tracker)**
 Compares 54 countries' stated climate policy commitments (NDCs) against actual emissions trajectories using open data, NLP sentiment scoring, and a lightweight ML classifier.
 🔗 [Try it live](https://climate-policy-emissions-tracker-znus63m954bvcvegqgtpuv.streamlit.app)
